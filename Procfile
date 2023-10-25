@@ -1,1 +1,1 @@
-Altron: python -m main.py
+XD: python -m main.py
